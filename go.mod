@@ -1,4 +1,5 @@
 module github.com/rclone/rclone
+replace github.com/rclone/rcone => github.com/erik1000/rclone latest
 
 go 1.18
 
